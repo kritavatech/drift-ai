@@ -1,1 +1,1 @@
-Screenshots, interface previews, and visual explorations related to Drift.
+UI/UX explorations and workflow drafts for Drift.
